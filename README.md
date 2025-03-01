@@ -1,6 +1,6 @@
 # ArenaAllocator Library
 
-A custom implementation of an Arena Allocator written in C++.
+A custom (very bad) implementation of Arena Allocator written in C++.
 
 ## Build
 
