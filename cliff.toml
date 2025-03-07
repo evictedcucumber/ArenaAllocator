@@ -2,7 +2,11 @@
 header = "# ArenaAllocator Changelog\n"
 
 body = """
-## {{ version | trim_start_matches(pat="release-") }} - {{ timestamp | date(format="%d %B %Y")}}
+{% if version %}\
+    ## {{ version | trim_start_matches(pat="release-") }} - {{ timestamp | date(format="%d %B %Y")}}\
+{% else %}
+    ## Unreleased
+{% endif %}
 
 {% for group, commits in commits | group_by(attribute="group") %}
     ### {{ group | striptags | trim | upper_first }}
