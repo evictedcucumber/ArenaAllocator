@@ -39,7 +39,8 @@ commit_parsers = [
   { message = "^feat", group = "<!-- 0 -->Features" },
   { message = "^doc", group = "<!-- 1 -->Documentation" },
   { message = "^build", group = "<!-- 2 -->Build"},
-  { message = "^chore", group = "<!-- 3 -->Miscellaneous Tasks" },
+  { message = "^chore", group = "<!-- 3 -->Chore" },
+  { message = "^ci", group = "<!-- 4 -->CI/CD"},
 ]
 filter_commits = false
 topo_order = false
