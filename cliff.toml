@@ -41,6 +41,7 @@ commit_parsers = [
   { message = "^build", group = "<!-- 2 -->Build"},
   { message = "^chore", group = "<!-- 3 -->Chore" },
   { message = "^ci", group = "<!-- 4 -->CI/CD"},
+  { message = "^revert", group = "<!-- 5 -->Reverts"},
 ]
 filter_commits = false
 topo_order = false
