@@ -14,6 +14,10 @@
 
 - Added chore and ci headings
 
+- Added revert group heading
+
+
+
 
 
 
@@ -50,7 +54,7 @@
 
 
 
-### Revert
+### Reverts
 
 
 
