@@ -4,6 +4,26 @@
 
 
 
+### Features
+
+
+
+- 1.0.0 Release
+
+
+
+### Documentation
+
+
+
+- Create README
+
+
+
+- Fix README
+
+
+
 ### Build
 
 #### Docs
@@ -19,6 +39,10 @@
 
 
 
+- Create CMakeLists file
+
+
+
 
 
 
@@ -31,7 +55,11 @@
 
 #### Git
 
+- Create gitignore
+
 - Add CHANGELOG.md to gitignore
+
+
 
 
 
@@ -63,48 +91,6 @@
 
 
 - #bed2e3d2
-
-
-
-## 1.0.0 - 01 March 2025
-
-
-### Features
-
-
-
-- 1.0.0 Release
-
-
-
-### Documentation
-
-
-
-- Create README
-
-
-
-- Fix README
-
-
-
-### Build
-
-
-
-- Create CMakeLists file
-
-
-
-### Chore
-
-#### Git
-
-- Create gitignore
-
-
-
 
 
 
