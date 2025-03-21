@@ -12,6 +12,10 @@
 
 
 
+- Add clang format config
+
+
+
 ### Documentation
 
 
@@ -91,6 +95,17 @@
 
 
 - #bed2e3d2
+
+
+
+### Fix
+
+#### Github
+
+- Fixed workflow commit message
+
+
+
 
 
 
